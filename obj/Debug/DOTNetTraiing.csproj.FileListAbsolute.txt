@@ -1,0 +1,7 @@
+C:\Users\vivek\source\repos\DOTNetTraiing\bin\Debug\DOTNetTraiing.exe.config
+C:\Users\vivek\source\repos\DOTNetTraiing\bin\Debug\DOTNetTraiing.exe
+C:\Users\vivek\source\repos\DOTNetTraiing\bin\Debug\DOTNetTraiing.pdb
+C:\Users\vivek\source\repos\DOTNetTraiing\obj\Debug\DOTNetTraiing.csproj.AssemblyReference.cache
+C:\Users\vivek\source\repos\DOTNetTraiing\obj\Debug\DOTNetTraiing.csproj.CoreCompileInputs.cache
+C:\Users\vivek\source\repos\DOTNetTraiing\obj\Debug\DOTNetTraiing.exe
+C:\Users\vivek\source\repos\DOTNetTraiing\obj\Debug\DOTNetTraiing.pdb
